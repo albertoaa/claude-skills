@@ -6,8 +6,9 @@ description: >
   without this skill. Use when the user says "build", "create",
   "add", "implement", or describes any non-trivial task.
 ---
+# Plan with me
 
-# Steps
+## Steps
 
 1. Interview me relentlessly about every aspect of this task.
    Walk down each branch of the design tree, resolving

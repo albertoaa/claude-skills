@@ -10,6 +10,7 @@ Skills are slash commands. Enable them with `skills.sh enable <name>`.
 |-------|---------|-------------|
 | code-review | `/code-review` | Review code changes for bugs, style issues, and improvements |
 | plan-with-me | `/plan-with-me` | ALWAYS invoke when the user describes a new feature, page, |
+| update-project-memory | `/update-project-memory` | ALWAYS invoke after completing any task that adds, removes, |
 
 ## Behaviors
 
