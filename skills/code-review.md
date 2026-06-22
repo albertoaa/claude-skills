@@ -7,12 +7,14 @@ allowed-tools:
   - Bash(git show:*)
   - Read
 ---
+# Code Review
 
 ## Your task
 
 Review the current code changes (staged and unstaged) for correctness, style, and potential improvements.
 
 The user may specify a review depth as an argument:
+
 - **low**: Only flag clear bugs and security issues
 - **medium** (default): Bugs, security, plus style and readability concerns
 - **high**: Comprehensive review including architecture, naming, test coverage gaps, and simplification opportunities
